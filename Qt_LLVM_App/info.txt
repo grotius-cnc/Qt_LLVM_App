@@ -1,0 +1,5 @@
+To get the code highlighter working without ```cpp ``` modified some code :
+/home/user/Qt_LLVM_App/qmarkdowntextedit/qmarkdowntextedit.cpp L1677
+/home/user/Qt_LLVM_App/qmarkdowntextedit/markdownhighlighter.cpp L494
+// the font size for cpp i found:
+/home/user/Qt_LLVM_App/qmarkdowntextedit/markdownhighlighter.cpp l384 
